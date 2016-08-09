@@ -3,7 +3,7 @@ import petNames from './index';
 
 describe('pet-names', function() {
   describe('all', function() {
-    it('should be an array of strings', function() {
+    it('should be an array of rings', function() {
       expect(petNames.all).to.satisfy(isArrayOfStrings);
 
       function isArrayOfStrings(array) {
