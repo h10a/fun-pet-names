@@ -28,7 +28,7 @@ var randomName = names.random();
 var threeRandomNames = names.random(3);
 ```
 
-## Other
+## Other  
 
 This library was developed by [me](https://twitter.com/kentcdodds) as part of an
 [egghead.io](http://egghead.io/) series called "How to Write a JavaScript Library."
