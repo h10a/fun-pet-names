@@ -1,6 +1,6 @@
 {
   "name": "fun-pet-names",
-  "version": "1.0.0-semantically-released",
+  "version": "1.0.0",
   "description": "Get random pet names",
   "main": "dist/index.js",
   "scripts": {
