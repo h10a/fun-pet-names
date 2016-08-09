@@ -14,7 +14,7 @@ describe('pet-names', function() {
     });
 
     it('should contain `Luke Skywalker`', function() {
-      expect(petNames.all).to.include('Luke Skywalker');
+      expect(petNames.all).to.include('Kitty');
     });
   });
 
